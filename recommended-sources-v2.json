@@ -2,7 +2,7 @@
   "version": 2,
   "sources": [
     {
-      "url": "https://playvapor.app/apps.json",
+      "url": "https://raw.githubusercontent.com/Leviidev/Husk/main/altsource.json",
       "platform": "ios"
     },
     {
