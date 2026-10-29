@@ -18,7 +18,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "crystall1ne",
@@ -32,7 +32,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "dukex",
@@ -49,7 +49,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "empo",
@@ -82,7 +82,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "fusion",
@@ -114,7 +114,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "ish",
@@ -130,7 +130,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "libretro-nightly",
@@ -147,7 +147,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "libretro",
@@ -163,7 +163,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "livecontainer-nightly",
@@ -180,7 +180,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "livecontainer",
@@ -196,7 +196,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "manic-emu",
@@ -213,7 +213,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "oatmealdome",
@@ -229,7 +229,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "provenance",
@@ -245,7 +245,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "reynard",
@@ -261,7 +261,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "stikdebug",
@@ -278,7 +278,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "utm",
@@ -295,7 +295,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     }
   ],
   "apps": [
@@ -313,7 +313,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "melocafe",
@@ -328,7 +328,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     },
     {
       "id": "touchhle",
@@ -358,7 +358,7 @@
       "status": "active",
       "added": "2026-10-29",
       "featured": false,
-      "verified": false
+      "verified": true
     }
   ]
 }
