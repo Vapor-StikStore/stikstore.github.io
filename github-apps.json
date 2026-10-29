@@ -2,22 +2,14 @@
   "version": 1,
   "apps": [
     {
-      "name": "XeniOS",
-      "developerName": "XeniOS",
-      "bundleIdentifier": "com.xenios.app",
-      "repository": "xenios-jp/XeniOS",
+      "name": "AetherPS4",
+      "developerName": "Leviidev",
+      "bundleIdentifier": "com.aether.ps4ios",
+      "repository": "Leviidev/AetherPS4",
       "platform": "ios",
+      "subtitle": "PS4 emulator for iOS and iPadOS.",
       "assetPattern": "\\.ipa$",
-      "iconURL": "https://raw.githubusercontent.com/xenios-jp/XeniOS/xenios/assets/apple/AppIcon.xcassets/AppIcon.appiconset/ios-marketing-1024.png"
-    },
-    {
-      "name": "touchHLE",
-      "developerName": "touchHLE",
-      "bundleIdentifier": "org.touchhle.app",
-      "repository": "johnny901901901/touchHLE-for-iOS",
-      "platform": "ios",
-      "assetPattern": "\\.ipa$",
-      "iconURL": "https://raw.githubusercontent.com/johnny901901901/touchHLE-for-iOS/ios-host/platform/ios/Assets.xcassets/AppIcon.appiconset/AppIcon.png"
+      "iconURL": "https://raw.githubusercontent.com/Leviidev/AetherPS4/main/AetherPS4-iOS/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png"
     },
     {
       "name": "MeloCafe",
@@ -29,14 +21,22 @@
       "iconURL": "https://raw.githubusercontent.com/stossy11/MeloCafe/1.0/MeloCafe/MeloCafe/Assets/Assets.xcassets/AppIcon.imageset/AppIcon.png"
     },
     {
-      "name": "AetherPS4",
-      "developerName": "Leviidev",
-      "bundleIdentifier": "com.aether.ps4ios",
-      "repository": "Leviidev/AetherPS4",
+      "name": "touchHLE",
+      "developerName": "touchHLE",
+      "bundleIdentifier": "org.touchhle.app",
+      "repository": "johnny901901901/touchHLE-for-iOS",
       "platform": "ios",
-      "subtitle": "PS4 emulator for iOS and iPadOS.",
       "assetPattern": "\\.ipa$",
-      "iconURL": "https://raw.githubusercontent.com/Leviidev/AetherPS4/main/AetherPS4-iOS/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png"
+      "iconURL": "https://raw.githubusercontent.com/johnny901901901/touchHLE-for-iOS/ios-host/platform/ios/Assets.xcassets/AppIcon.appiconset/AppIcon.png"
+    },
+    {
+      "name": "XeniOS",
+      "developerName": "XeniOS",
+      "bundleIdentifier": "com.xenios.app",
+      "repository": "xenios-jp/XeniOS",
+      "platform": "ios",
+      "assetPattern": "\\.ipa$",
+      "iconURL": "https://raw.githubusercontent.com/xenios-jp/XeniOS/xenios/assets/apple/AppIcon.xcassets/AppIcon.appiconset/ios-marketing-1024.png"
     }
   ]
 }

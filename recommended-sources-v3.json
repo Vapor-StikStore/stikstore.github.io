@@ -1,0 +1,364 @@
+{
+  "format": "stikstore.recommended",
+  "version": 3,
+  "updated": "2026-10-29",
+  "sources": [
+    {
+      "id": "armsx2",
+      "url": "https://ios.armsx2.net/apps.json",
+      "name": "ARMSX2 iOS",
+      "subtitle": "PlayStation 2 emulation for iPhone and iPad.",
+      "icon": "https://ios.armsx2.net/assets/icon.png?v=d83ffc2a",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "crystall1ne",
+      "url": "https://alt.crystall1ne.dev",
+      "name": "crystall1ne.dev",
+      "subtitle": "The source for everything crystall1nedev.",
+      "icon": "https://alt.crystall1ne.dev/resources/media/the_icon.png",
+      "platforms": [
+        "ios"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "dukex",
+      "url": "https://raw.githubusercontent.com/MaftyManicEMU/DukeX/master/altsource/source.json",
+      "name": "DukeX",
+      "subtitle": "Xbox Emulation on iOS",
+      "icon": "https://raw.githubusercontent.com/MaftyManicEMU/DukeX/master/altsource/assets/dukex-icon.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "empo",
+      "url": "https://raw.githubusercontent.com/mateo-m/empo-app/main/altstore-source.json",
+      "name": "Empo",
+      "subtitle": "Run RPG Maker and PSDK games on iPhone and iPad.",
+      "icon": "https://raw.githubusercontent.com/mateo-m/empo-app/main/docs/media/empo-icon.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "feather",
+      "url": "https://raw.githubusercontent.com/claration/Feather/refs/heads/main/app-repo.json",
+      "name": "Feather",
+      "icon": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "tools"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "fusion",
+      "url": "https://raw.githubusercontent.com/yodaluca23/Fusion-AltStore/refs/heads/main/source.json",
+      "name": "Exate's Fusion Cave",
+      "subtitle": "Fusion till we get back on the AppStore",
+      "icon": "https://avatars.githubusercontent.com/u/71751652",
+      "platforms": [
+        "ios",
+        "tvos"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "husk",
+      "url": "https://raw.githubusercontent.com/Leviidev/Husk/main/altsource.json",
+      "name": "Husk",
+      "subtitle": "Android apps and games on your iPhone.",
+      "icon": "https://raw.githubusercontent.com/Leviidev/Husk/main/src/app/Husk/Assets.xcassets/AppIcon.appiconset/Icon-Default.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "compatibility"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "ish",
+      "url": "https://ish.app/altstore.json",
+      "name": "iSH",
+      "icon": "https://ish.app/assets/icon-full.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "tools"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "libretro-nightly",
+      "url": "https://buildbot.libretro.com/nightly/apple/ios-arm64/altstore.json",
+      "name": "Libretro",
+      "icon": "https://github.com/libretro/RetroArch/raw/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-3.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator",
+        "nightly"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "libretro",
+      "url": "https://buildbot.libretro.com/stable/altstore.json",
+      "name": "Libretro",
+      "icon": "https://github.com/libretro/RetroArch/raw/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-3.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "livecontainer-nightly",
+      "url": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json",
+      "name": "LiveContainer (nightly)",
+      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "tools",
+        "nightly"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "livecontainer",
+      "url": "https://github.com/LiveContainer/LiveContainer/releases/download/1.0/apps.json",
+      "name": "LiveContainer",
+      "icon": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "tools"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "manic-emu",
+      "url": "https://apps.manicemu.site/altstore",
+      "name": "Manic EMU",
+      "subtitle": "Retro Emulation, Redefined.",
+      "icon": "https://apps.manicemu.site/images/manicicon.jpg",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "oatmealdome",
+      "url": "https://altstore.oatmealdome.me/",
+      "name": "OatmealDome",
+      "icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "provenance",
+      "url": "https://provenance-emu.com/apps.json",
+      "name": "Provenance Emulator",
+      "icon": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "emulator"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "reynard",
+      "url": "https://github.com/minh-ton/reynard-browser/releases/download/0.0.1-a1/source.json",
+      "name": "Reynard Browser",
+      "icon": "https://github.com/user-attachments/assets/1c42dda2-b778-4342-9f94-8f852c3ad652",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "browser"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "stikdebug",
+      "url": "https://stikdebug.xyz/index.json",
+      "name": "StikDebug",
+      "icon": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "tools",
+        "jit"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "utm",
+      "url": "https://alt.getutm.app",
+      "name": "UTM",
+      "subtitle": "Virtual machines for iOS",
+      "icon": "https://alt.getutm.app/icon.png",
+      "platforms": [
+        "ios"
+      ],
+      "tags": [
+        "virtualization"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    }
+  ],
+  "apps": [
+    {
+      "id": "aetherps4",
+      "name": "AetherPS4",
+      "developerName": "Leviidev",
+      "bundleIdentifier": "com.aether.ps4ios",
+      "repository": "Leviidev/AetherPS4",
+      "subtitle": "PS4 emulator for iOS and iPadOS.",
+      "icon": "https://raw.githubusercontent.com/Leviidev/AetherPS4/main/AetherPS4-iOS/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "platforms": [
+        "ios"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "melocafe",
+      "name": "MeloCafe",
+      "developerName": "stossy11",
+      "bundleIdentifier": "com.stossy11.MeloCafe",
+      "repository": "stossy11/MeloCafe",
+      "icon": "https://raw.githubusercontent.com/stossy11/MeloCafe/1.0/MeloCafe/MeloCafe/Assets/Assets.xcassets/AppIcon.imageset/AppIcon.png",
+      "platforms": [
+        "ios"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "touchhle",
+      "name": "touchHLE",
+      "developerName": "touchHLE",
+      "bundleIdentifier": "org.touchhle.app",
+      "repository": "johnny901901901/touchHLE-for-iOS",
+      "icon": "https://raw.githubusercontent.com/johnny901901901/touchHLE-for-iOS/ios-host/platform/ios/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "platforms": [
+        "ios"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    },
+    {
+      "id": "xenios",
+      "name": "XeniOS",
+      "developerName": "XeniOS",
+      "bundleIdentifier": "com.xenios.app",
+      "repository": "xenios-jp/XeniOS",
+      "icon": "https://raw.githubusercontent.com/xenios-jp/XeniOS/xenios/assets/apple/AppIcon.xcassets/AppIcon.appiconset/ios-marketing-1024.png",
+      "platforms": [
+        "ios"
+      ],
+      "status": "active",
+      "added": "2026-10-29",
+      "featured": false,
+      "verified": false
+    }
+  ]
+}
