@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "message": "StikStore is unavailable right now.",
+  "offlineGraceHours": 24
+}
